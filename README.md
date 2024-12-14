@@ -3,7 +3,7 @@
 ![GitHub License](https://img.shields.io/github/license/sumitkolhe/jiosaavn-api)
 ![GitHub Release](https://img.shields.io/github/v/release/sumitkolhe/jiosaavn-api)
 
-An Unofficial API for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com).
+An **Unofficial** API for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com).
 
 ## 📚 Documentation
 
